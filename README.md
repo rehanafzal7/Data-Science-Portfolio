@@ -9,7 +9,10 @@ Welcome to my Data Science portfolio! I'm an aspiring Data Scientist learning Py
 - **Goals**: Mastering ML, data visualization, and predictive modeling
 
 ## Practice Notebooks
-- [Practice/PythonVariablesandOperators.ipynb](Practice/PythonVariablesandOperators.ipynb): Basics of Python variables, data types, and operators (e.g., floor division).
+- [Practice/PythonVariablesandOperators.ipynb](Practice/PythonVariablesandOperators.ipynb):
+- [Practice-Functions-checkpoint.ipynb](Practice-Functions-checkpoint.ipynb):
+- [Practice_ControlFlow.ipynb](Practice_ControlFlow.ipynb):
+- VBasics of Python variables, data types, conditions, functions and operators.
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/rehan-afzal-a8a541182/]
