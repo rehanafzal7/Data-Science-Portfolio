@@ -12,7 +12,7 @@ Welcome to my Data Science portfolio! I'm an aspiring Data Scientist learning Py
 - [Practice/PythonVariablesandOperators.ipynb](Practice/PythonVariablesandOperators.ipynb):
 - [Practice-Functions-checkpoint.ipynb](Practice-Functions-checkpoint.ipynb):
 - [Practice_ControlFlow.ipynb](Practice_ControlFlow.ipynb):
-- VBasics of Python variables, data types, conditions, functions and operators.
+- Basics of Python variables, data types, conditions, functions and operators.
 
 ## Contact
 - LinkedIn: [https://www.linkedin.com/in/rehan-afzal-a8a541182/]
